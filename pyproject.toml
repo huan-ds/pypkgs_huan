@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Python package that eases the pain of concatenating Pandas categoricals!"
 authors = ["lihh <lihuanhuan1003@hotmail.com>"]
 license = "MIT"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.7.1"
